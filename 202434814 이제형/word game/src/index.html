@@ -10,17 +10,19 @@
 
   <body>
     <main class="container">
-      <p id="greet-msg"></p>
       <div class="row">
-        <input id="word-input" placeholder='{"words": {a: "사과", b: "apple"}, {a: "뛰다", b: "run"]}}'>
-        <button>단어 추가</button>
-        <button>start</button>
+        <input id="word-input" type="text" placeholder='{"words": [{"a": "사과", "b": "apple"}, {"a": "뛰다", "b": "run"}]}'>
+        <button id="add-word-btn">단어 추가</button>
+        <button id="start-btn">퀴즈 시작</button>
       </div>
+  
       <h1 id="score">score: 0/0</h1>
-      <h1>문제</h1>
+  
+      <h1 id="question">문제: </h1>
+  
       <div class="row">
-        <input id="word-input" placeholder='정답'>
-        <button>정답 입력</button>
+        <input id="answer-input" type="text" placeholder="정답을 입력하세요">
+        <button id="submit-answer-btn">정답 입력</button>
       </div>
     </main>
   </body>
