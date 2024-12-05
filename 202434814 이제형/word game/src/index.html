@@ -10,30 +10,18 @@
 
   <body>
     <main class="container">
-      <h1>Welcome to Tauri</h1>
-
-      <div class="row">
-        <a href="https://tauri.app" target="_blank">
-          <img src="/assets/tauri.svg" class="logo tauri" alt="Tauri logo" />
-        </a>
-        <a
-          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-          target="_blank"
-        >
-          <img
-            src="/assets/javascript.svg"
-            class="logo vanilla"
-            alt="JavaScript logo"
-          />
-        </a>
-      </div>
-      <p>Click on the Tauri logo to learn more about the framework</p>
-
-      <form class="row" id="greet-form">
-        <input id="greet-input" placeholder="Enter a name..." />
-        <button type="submit">Greet</button>
-      </form>
       <p id="greet-msg"></p>
+      <div class="row">
+        <input id="word-input" placeholder='{"words": {a: "사과", b: "apple"}, {a: "뛰다", b: "run"]}}'>
+        <button>단어 추가</button>
+        <button>start</button>
+      </div>
+      <h1 id="score">score: 0/0</h1>
+      <h1>문제</h1>
+      <div class="row">
+        <input id="word-input" placeholder='정답'>
+        <button>정답 입력</button>
+      </div>
     </main>
   </body>
 </html>
