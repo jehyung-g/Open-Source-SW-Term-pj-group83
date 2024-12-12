@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-랜덤 명언 생성기
-=======
 # Open-Source-SW-Term-pj-group83
 
 ## 이제형 - word game
@@ -21,7 +18,11 @@ tauri2.0를 이용해 제작됐습니다
 위와 같은 형식의 json 텍스트를 입력하고 퀴즈 시작을 누르면 게임이 시작됩니다.
 단어의 뜻을 맞추면 스코어가 올라갑니다.
 ![](https://github.com/jehyung-g/Open-Source-SW-Term-pj-group83/blob/main/202434814%20%EC%9D%B4%EC%A0%9C%ED%98%95/word%20game/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.jpg?raw=true)
+## 이도영 - random quote generator (랜덤 명언 생성기)
+새로운 하루를 시작하기 전 생성기가 골라주는 명언을 읽어 일상을 활기차게 보내면 좋을 것 같아서 제작했습니다
+### 실행 방법
+파일들을 모두 다운로드 받은 후, 코드 편집기에서 start index.html 을 입력하고 실행한다
+### 실행 사진
+![Markdown](https://github.com/DYLee3333/branch-test/blob/9d790056811cd2464e4f0c42ee02134252f14511/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-12-12%20193000.png)
 ## //여기에 프로젝트 설명을 간단하게 작성해 주세요
 ## //여기에 프로젝트 설명을 간단하게 작성해 주세요
-## //여기에 프로젝트 설명을 간단하게 작성해 주세요
->>>>>>> 44c52d2188caf17d4f0ea30823dd8be2f39f0aa0
