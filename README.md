@@ -24,5 +24,9 @@ tauri2.0를 이용해 제작됐습니다
 파일들을 모두 다운로드 받은 후, 코드 편집기에서 start index.html 을 입력하고 실행한다
 ### 실행 사진
 ![Markdown](https://github.com/DYLee3333/branch-test/blob/9d790056811cd2464e4f0c42ee02134252f14511/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-12-12%20193000.png)
-## //여기에 프로젝트 설명을 간단하게 작성해 주세요
+## 오윤성 - image text summarizer
+이미지 텍스트 추출기 및 요약기
+이미지에서 텍스트를 추출하고 추출한 텍스트를 요약합니다.
+### 실행 방법
+파일을 설치하고 코드 편집기에서 python main.py images/sample_image.jpg 를 입력하고 실행합니다.
 ## //여기에 프로젝트 설명을 간단하게 작성해 주세요
