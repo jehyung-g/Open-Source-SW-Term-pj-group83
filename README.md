@@ -17,10 +17,10 @@ tauri2.0를 이용해 제작됐습니다
     { "a": "뛰다", "b": "run" }
   ]
 }
-![](https://github.com/jehyung-g/Open-Source-SW-Term-pj-group83/blob/main/202434814%20%EC%9D%B4%EC%A0%9C%ED%98%95/word%20game/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.jpg?raw=true)
 ```
 위와 같은 형식의 json 텍스트를 입력하고 퀴즈 시작을 누르면 게임이 시작됩니다.
 단어의 뜻을 맞추면 스코어가 올라갑니다.
+![](https://github.com/jehyung-g/Open-Source-SW-Term-pj-group83/blob/main/202434814%20%EC%9D%B4%EC%A0%9C%ED%98%95/word%20game/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.jpg?raw=true)
 ## //여기에 프로젝트 설명을 간단하게 작성해 주세요
 ## //여기에 프로젝트 설명을 간단하게 작성해 주세요
 ## //여기에 프로젝트 설명을 간단하게 작성해 주세요
