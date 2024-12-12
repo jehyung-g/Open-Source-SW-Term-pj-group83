@@ -1,2 +1,2 @@
 랜덤 명언 생성기
-random quote generator
+Random Quote Generator
